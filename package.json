@@ -1,0 +1,26 @@
+{
+  "name": "starterproject",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aswin-Poovadan/Namaste_React.git"
+  },
+  "author": "Aswin Poovadan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aswin-Poovadan/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/Aswin-Poovadan/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
